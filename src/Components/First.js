@@ -31,6 +31,7 @@ class Abcde extends Component {
 
                     />
                     <h3 className="button1">{id.rating}</h3>
+                                    <button className="btn btn-danger" > Buy Movie Ticket</button>
                 </div>
             </div >
         )
